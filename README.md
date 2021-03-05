@@ -32,11 +32,11 @@ Microsoft Kinect V2 recorded underwater video of an aquarium
 
 ## Results
 
-   | K-Means | DBSCAN | Fuzzy C Means
----|---------|--------|------------
-FP | 3057 | 2867 | 3004
-FN | 1381 | 2354 | 1958
-TP | 5578 | 4770 | 5020
-Precision | 69.83 | 62.58 | 67.59
-Recall | 78.89 | 62.55 | 73.37
+|   | K-Means | DBSCAN | Fuzzy C Means
+| ---|---------|--------|------------
+| FP | 3057 | 2867 | 3004
+| FN | 1381 | 2354 | 1958
+| TP | 5578 | 4770 | 5020
+| Precision | 69.83 | 62.58 | 67.59
+| Recall | 78.89 | 62.55 | 73.37
 
